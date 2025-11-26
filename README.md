@@ -69,8 +69,8 @@ A documentação completa, contendo:
 - Estruturas utilizadas
 - Demonstrações e análises
 
--> está disponível no link:
--> imagens do console no link: 
+-> está disponível no link: <https://github.com/aime-naisa/BatalhaNaval/blob/main/Documenta%C3%A7%C3%A3o%20Batalha%20Naval%20-%20Aim%C3%AA%20Na%C3%ADsa%20de%20Souza.pdf>
+-> imagens do console no link:  <https://github.com/aime-naisa/BatalhaNaval/blob/main/Imagens%20-%20Batalha%20Naval.pdf>
 
 ---
 
@@ -85,4 +85,5 @@ Disponível em: <https://github.com/ricardovoigt/disciplina_IP_2025_2_B>.
 **FURB – Universidade Regional de Blumenau**
 **Curso:** Bacharelado em Sistemas de Informação 
 **Disciplina:** Introdução à Programação (1º semestre)
+
 
